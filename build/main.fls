@@ -1,6 +1,6 @@
-PWD /Users/koltenbendickson/Library/CloudStorage/GoogleDrive-bendi087@umn.edu/My Drive/College/Fall 2025/MATH 2243/Book_Styled_Notes
+PWD /Users/koltenbendickson/Documents/GitHub/LaTex-Book
 INPUT /usr/local/texlive/2024/texmf-var/web2c/luahbtex/lualatex.fmt
-INPUT /Users/koltenbendickson/Library/CloudStorage/GoogleDrive-bendi087@umn.edu/My Drive/College/Fall 2025/MATH 2243/Book_Styled_Notes/main.tex
+INPUT /Users/koltenbendickson/Documents/GitHub/LaTex-Book/main.tex
 OUTPUT build/main.log
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tex-ini-files/lualatexquotejobname.lua
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/ltluatex.lua

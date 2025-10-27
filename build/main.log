@@ -1,8 +1,8 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2025.1.31)  27 OCT 2025 03:21
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2025.1.31)  27 OCT 2025 03:33
  restricted system commands enabled.
  file:line:error style messages enabled.
-**"/Users/koltenbendickson/Library/CloudStorage/GoogleDrive-bendi087@umn.edu/My Drive/College/Fall 2025/MATH 2243/Book_Styled_Notes/main.tex"
-("/Users/koltenbendickson/Library/CloudStorage/GoogleDrive-bendi087@umn.edu/My Drive/College/Fall 2025/MATH 2243/Book_Styled_Notes/main.tex"
+**/Users/koltenbendickson/Documents/GitHub/LaTex-Book/main.tex
+(/Users/koltenbendickson/Documents/GitHub/LaTex-Book/main.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 Lua module: luaotfload 2024-02-14 3.28 Lua based OpenType font support
@@ -1088,7 +1088,7 @@ Here is how much of LuaTeX's memory you used:
    avail lists: 1:1,2:2113,3:1223,4:240,5:90,6:83,7:4510,8:21,9:658,10:10,11:271
  55331 multiletter control sequences out of 65536+600000
  74 fonts using 15964727 bytes
- 89i,13n,98p,671b,905s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 89i,13n,98p,592b,905s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmromandemi10-regular.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmmonolt10-bold.otf></System/Library/Fonts/Supplemental/Times New Roman Italic.ttf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-italic.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf></System/Library/Fonts/Supplemental/Times New Roman Bold.ttf></System/Library/Fonts/Supplemental/Times New Roman.ttf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></System/Library/Fonts/Helvetica.ttc></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
 Output written on main.pdf (7 pages, 178062 bytes).
 
